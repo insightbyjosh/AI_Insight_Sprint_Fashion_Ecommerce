@@ -1,0 +1,12 @@
+
+Power Query Transformations
+
+• Imported Sales, Customers, Products and Campaign datasets.
+
+• Promoted the first row to column headers.
+
+• Changed data types for dates, numbers and text fields.
+
+• Verified dataset integrity before loading into the data model.
+
+• Loaded cleaned datasets into Power BI for modelling.
